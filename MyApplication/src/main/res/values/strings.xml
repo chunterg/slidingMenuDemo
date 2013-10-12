@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingMenu Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="view_list">View list</string>
+    <string name="button1">btn1</string>
+    <string name="button2">btn2</string>
+    <string name="button3">btn3</string>
+</resources>

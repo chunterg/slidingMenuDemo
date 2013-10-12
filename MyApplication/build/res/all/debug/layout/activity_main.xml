@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical" >
+
+
+    <!--<ImageButton-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/imageButton"-->
+            <!--/>-->
+
+    <!--<ListView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/list"-->
+            <!--android:layout_gravity="center"/>-->
+
+</LinearLayout><!-- From: file:/D:/JAVA/MyApplicationProject/MyApplication/src/main/res/layout/activity_main.xml -->

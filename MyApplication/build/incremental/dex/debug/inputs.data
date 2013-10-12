@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1379061769091 459 34d5cb41e18cf50b8f29d8cb8be6ad6453e0bb99 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$layout.class
+1379061769089 518 17f6f6d442715e3193e40bb44c1533845c74b75a D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$id.class
+1379043665242 359 fdc73ac1e1da2010356e9bbf147ce969332b18da D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\BuildConfig.class
+1379061769094 409 fbfa7432318d7212a826009688661012e50c0183 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$menu.class
+1379056601105 506 10bb3de6bfa57bab1e24c8c60412d25755e7f2d5 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$drawable.class
+1379043665224 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$attr.class
+1380093540718 5006 732a7e5b72fc31d923ad11324b9a3b78112f8b02 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\MainActivity.class
+1379043665226 482 faada894e924919263c56b8f52dfdc73ffaae454 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$dimen.class
+1379061769101 747 a4020082c70bac7b5dfa7d83ca3fa76edfafd9c7 D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R.class
+1379061769099 452 efd7986b2426a5485ac3047886c82044d6b82bbc D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$style.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d D:\Program Files\android studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1379061769095 493 5b2d8cff678dbcbb19f800ee50ab2b8e793ae99a D:\JAVA\MyApplicationProject\MyApplication\build\classes\debug\com\example\myapplication\R$string.class

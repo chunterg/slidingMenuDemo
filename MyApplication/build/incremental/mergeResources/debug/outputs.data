@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1379043663139 334 dbb096ffe9ee04a1bd82f18327ca1cd2aa3ee4c1 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\menu\main.xml
+1379061444044 1431 cc3780dacc1d3baf0b11e3003a9643286b1eb5ba D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\layout\list_layout.xml
+1379056317409 1171 fd7e4f6e37eaf363a633f420951e39a61ef3c68e D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-hdpi\i3.jpg
+1379043663152 1109 307668763eea93861825be4988f7c2d8a4a5754a D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\values\values.xml
+1379043663165 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1379043663184 314 1a7b0fb6bafa1c6c68df119f564c274ae7f440c9 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\values-v11\values.xml
+1379056317411 913 4d25b05f5eba60d96227c8f55b8ae86f076ce8e7 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-hdpi\i1.jpg
+1379061767896 810 bd9929b05062697f804fea2e8c69b5fc502545fe D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\layout\activity_main.xml
+1379043663207 3121 c13193c37274d333ac028cc72c260b891662d9d0 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1379043663181 328 e9f023cec33d01490fdbe463e6ba52a22dc1d35d D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\values-v14\values.xml
+1379043663281 17765 702fd3311475c099afc13c0b03375d917cc82018 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1379056317413 601 58a847d1970c96ecafd0eb389b5bc1452d26a663 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-hdpi\i2.jpg
+1379043663187 243 8572760d09821ad72b4ca2c5823b67fe31131894 D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\values-sw720dp-land\values.xml
+1379043663217 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c D:\JAVA\MyApplicationProject\MyApplication\build\res\all\debug\drawable-xhdpi\ic_launcher.png
